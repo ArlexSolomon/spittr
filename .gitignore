@@ -1,0 +1,33 @@
+### Eclipse
+.project
+.settings/
+.classpath
+target/
+.externalToolBuilderes/
+.tern-project
+
+### Bower
+bower_components
+
+### Netbeans
+nb-configuration.xml
+.netbeans.xml
+
+### IntelliJ
+.idea/
+*.iml
+
+### Spring
+.springBeans
+
+### macOS
+.DS_Store
+
+### npm
+node_modules/
+
+### sass
+.sass-cache/
+
+### logs
+logs/
