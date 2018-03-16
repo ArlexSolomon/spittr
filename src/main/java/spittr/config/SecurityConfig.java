@@ -48,7 +48,9 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         web.ignoring().antMatchers(
         		"/js/**",
         		"/css/**",
-                "/node_modules/**"
+                "/node_modules/**",
+                "/register",
+                "/rest/spitter/**"
         );
     }
 }
